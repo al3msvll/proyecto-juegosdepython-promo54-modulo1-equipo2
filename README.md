@@ -1,1 +1,1 @@
-# Adalab_Mod1_Juegosdepython
+# proyecto-juegosdepython-promo54-modulo1-equipo2
