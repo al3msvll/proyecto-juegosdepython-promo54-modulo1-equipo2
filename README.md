@@ -21,14 +21,15 @@ Bienvenid@s a **Juegos Clásicos**, un proyecto educativo desarrollado por Iris,
 TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
 
 OBJETIVO DEL PROYECTO
+
 Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en programación. Queríamos aplicar lo que hemos aprendido de una forma práctica y divertida, a la vez que aportamos un recurso útil para el ámbito educativo.
 
 CREADORAS  
-Iris Barredo (https://github.com/irisbdelsol)  
-Alejandra Martín (https://github.com/al3msvll)  
-Marta Morell (https://github.com/MartaMorell)  
-Ana Robles (https://github.com/AnaROGA)  
-Magdala Pérez (https://github.com/MPNimo)
+- Iris Barredo (https://github.com/irisbdelsol)  
+- Alejandra Martín (https://github.com/al3msvll)  
+- Marta Morell (https://github.com/MartaMorell)  
+- Ana Robles (https://github.com/AnaROGA)  
+- Magdala Pérez (https://github.com/MPNimo)
 
 GRACIAS POR PASARTE POR NUESTRO PROYECTO.  
 ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! 
