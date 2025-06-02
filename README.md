@@ -14,9 +14,9 @@ Bienvenid@s a **Juegos Clásicos**, un proyecto educativo desarrollado por Iris,
 3. Abre una terminal o consola dentro de la carpeta del proyecto.
 4. Ejecuta el archivo del juego que quieras probar. Por ejemplo:
 
-python preguntas_respuestas.py  
-python piedra_papel_tijera.py  
-python ahorcado.py
+--> python preguntas_respuestas.py  
+--> python piedra_papel_tijera.py  
+--> python ahorcado.py
 
 TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
 
@@ -24,10 +24,10 @@ OBJETIVO DEL PROYECTO
 Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en programación. Queríamos aplicar lo que hemos aprendido de una forma práctica y divertida, a la vez que aportamos un recurso útil para el ámbito educativo.
 
 CREADORAS
-Iris  
-Alejandra (https://github.com/al3msvll)
-Marta (https://github.com/MartaMorell)
-Ana Robles 
-Magdala (https://github.com/MPNimo)
+Iris Barredo (https://github.com/irisbdelsol)  
+Alejandra Martin (https://github.com/al3msvll)  
+Marta Morell (https://github.com/MartaMorell)  
+Ana Robles (https://github.com/AnaROGA)  
+Magdala Pérez (https://github.com/MPNimo)
 
 GRACIAS POR PASARTE POR NUESTRO PROYECTO. ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! 
