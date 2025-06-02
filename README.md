@@ -17,6 +17,7 @@ Bienvenid@s a **Juegos Clásicos**, un proyecto educativo desarrollado por Iris,
 python preguntas_respuestas.py
 python piedra_papel_tijera.py
 python ahorcado.py
+```
 
 TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
 
