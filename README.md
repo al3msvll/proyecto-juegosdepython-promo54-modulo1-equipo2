@@ -25,7 +25,7 @@ Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en pro
 
 CREADORAS  
 Iris Barredo (https://github.com/irisbdelsol)  
-Alejandra Martin (https://github.com/al3msvll)  
+Alejandra Martín (https://github.com/al3msvll)  
 Marta Morell (https://github.com/MartaMorell)  
 Ana Robles (https://github.com/AnaROGA)  
 Magdala Pérez (https://github.com/MPNimo)
