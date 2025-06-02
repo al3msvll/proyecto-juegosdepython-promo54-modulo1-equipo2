@@ -25,11 +25,9 @@ Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en pro
 
 TECNÓLOGA: CREADORAS
 Iris
-Alejandra Martín : [
-](https://github.com/al3msvll) [ **perfil git**
-](https://github.com/al3msvll/proyecto-juegosdepython-promo54-modulo1-equipo2.git) **repo juegos**
+Alejandra Martín : [](https://github.com/al3msvll) [ **perfil git**
 Marta
 Ana
 Magdala
 
-GRACIAS POR PASARTE POR NUESTRO PROYECTO. ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! :SONROJO:
+GRACIAS POR PASARTE POR NUESTRO PROYECTO. ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! 
