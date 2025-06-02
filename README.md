@@ -23,7 +23,7 @@ TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
 OBJETIVO DEL PROYECTO
 Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en programación. Queríamos aplicar lo que hemos aprendido de una forma práctica y divertida, a la vez que aportamos un recurso útil para el ámbito educativo.
 
-CREADORAS
+CREADORAS  
 Iris Barredo (https://github.com/irisbdelsol)  
 Alejandra Martin (https://github.com/al3msvll)  
 Marta Morell (https://github.com/MartaMorell)  
