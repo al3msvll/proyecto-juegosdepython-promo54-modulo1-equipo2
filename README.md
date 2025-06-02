@@ -24,10 +24,10 @@ OBJETIVO DEL PROYECTO
 Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en programación. Queríamos aplicar lo que hemos aprendido de una forma práctica y divertida, a la vez que aportamos un recurso útil para el ámbito educativo.
 
 CREADORAS
-Iris
+Iris  
 Alejandra (https://github.com/al3msvll)
-Marta
-Ana
-Magdala
+Marta (https://github.com/MartaMorell)
+Ana Robles 
+Magdala (https://github.com/MPNimo)
 
 GRACIAS POR PASARTE POR NUESTRO PROYECTO. ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! 
