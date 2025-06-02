@@ -23,9 +23,9 @@ TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
 OBJETIVO DEL PROYECTO
 Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en programación. Queríamos aplicar lo que hemos aprendido de una forma práctica y divertida, a la vez que aportamos un recurso útil para el ámbito educativo.
 
-TECNÓLOGA: CREADORAS
+CREADORAS
 Iris
-Alejandra Martín : [](https://github.com/al3msvll) [ **perfil git**
+Alejandra (https://github.com/al3msvll)
 Marta
 Ana
 Magdala
