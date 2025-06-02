@@ -14,8 +14,8 @@ Bienvenid@s a **Juegos Clásicos**, un proyecto educativo desarrollado por Iris,
 3. Abre una terminal o consola dentro de la carpeta del proyecto.
 4. Ejecuta el archivo del juego que quieras probar. Por ejemplo:
 
-python preguntas_respuestas.py
-python piedra_papel_tijera.py
+python preguntas_respuestas.py  
+python piedra_papel_tijera.py  
 python ahorcado.py
 
 TODOS LOS JUEGOS SE EJECUTAN DESDE LA CONSOLA.
