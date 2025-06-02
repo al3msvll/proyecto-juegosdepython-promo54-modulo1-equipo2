@@ -1,12 +1,12 @@
 # proyecto-juegosdepython-promo54-modulo1-equipo2
-# :VIDEOJUEGO: Juegos Clásicos
+# VIDEOJUEGO: Juegos Clásicos
 
 Bienvenid@s a **Juegos Clásicos**, un proyecto educativo desarrollado por Iris, Alejandra, Marta, Ana y Magdala. Hemos creado tres juegos sencillos y divertidos utilizando Python, pensados especialmente para su uso en instituciones educativas. La idea es ofrecer una forma lúdica de aprender, tanto para quienes se inician en la programación como para quienes simplemente quieren pasar un buen rato.
-## :pieza_de_puzle: ¿Qué juegos incluye?
+## pieza_de_puzle: ¿Qué juegos incluye?
 - **Preguntas y respuestas**: Un juego tipo trivial con preguntas básicas para poner a prueba tus conocimientos.
 - **Piedra, papel o tijera**: El clásico de siempre, donde podrás jugar contra el ordenador.
 - **Ahorcado**: Adivina la palabra antes de que se complete el dibujo del ahorcado. ¡Elige bien tus letras!
-## :cohete: ¿Cómo se juega?
+## cohete: ¿Cómo se juega?
 1. Asegúrate de tener **Python 3** instalado en tu ordenador.
 2. Clona este repositorio o descárgalo en formato `.zip` desde GitHub.
 3. Abre una terminal o consola dentro de la carpeta del proyecto.
