@@ -32,5 +32,6 @@ Este proyecto ha sido creado como parte de nuestro proceso de aprendizaje en pro
 - Ana Robles (https://github.com/AnaROGA)  
 - Magdala Pérez (https://github.com/MPNimo)
 
-GRACIAS POR PASARTE POR NUESTRO PROYECTO.  
+GRACIAS POR PASARTE POR NUESTRO PROYECTO. ✅ 
+
 ¡ESPERAMOS QUE LO DISFRUTES TANTO COMO NOSOTRAS LO HEMOS HECHO DESARROLLÁNDOLO! 😊
